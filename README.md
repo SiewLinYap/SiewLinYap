@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello, I'm Siew Lin 👋
+
+  - 🔭 I’m currently working in Product Engineering, AI Innovation @ AI Singapore
+  - 💬 I was an experienced package development engineer in the past ( hardware development on Integrated Circuit assembled pakcage ). I'm using the transferable skillsets and engineering concepts to become again package development engineer, this time on software. I'm the python package core developer for [Rarity](https://pypi.org/project/rarity/)
+  - I build a portal for the current organization to collate industrial machine learning projects for better collaboration and knowledge-sharing among engineers
+  - 🌱 I continue to explore, learn and experiment topics related to Machine Learning, Deep Learning and Data Science
+  - ⚡ Fun fact: I used to conquer the fear of motorbike by learning how to ride a motorbike. So I conquer the fear of software package by building one myself from scratch :sweat_smile:
 
 <!--
 **SiewLinYap/SiewLinYap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
