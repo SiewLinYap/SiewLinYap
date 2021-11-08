@@ -4,7 +4,7 @@
 - 💬 I was an experienced package development engineer in the past ( hardware development on Integrated Circuit assembled package ). I'm using the transferable skillsets and engineering concepts to transform myself into another package development engineer, this time on software. I'm the Python package core developer for [Rarity](https://pypi.org/project/rarity/), a diagnostic library for tabular data with minimal setup to enable details analysis on datasets, helping users to identify features data that could have potentially influenced the model prediction performance
 - :office: I also built a portal for the current organization to collate industrial machine learning projects for better collaboration and knowledge-sharing among engineers.
 - Most of my code check-ins and activities are done in GitLab Enterprise which can’t be accessed publicly. Nevertheless, I use most of the common tools and libraries to support machine learning and deep learning tasks :dart:
-- :clock530: During my free times, I like playing board games / cards. I like :books: , :bike: and :swimmer: too
+- :clock530: During my free times, I like playing board games / cards with my children. I like :books: , :bike: and :swimmer: too
 - 🌱 I continue to explore, learn and experiment topics related to Data Science, Machine Learning and Deep Learning
 - ⚡ Fun fact: I used to conquer the fear of motorbike by learning how to ride a motorbike. Tapping on the same thought, I conquer the fear of software package by building one myself from scratch :sweat_smile:
 
