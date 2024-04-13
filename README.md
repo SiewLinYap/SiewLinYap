@@ -1,6 +1,7 @@
 ### Hello, I'm Siew Lin  <img src="https://github.com/SiewLinYap/SiewLinYap/blob/main/assets/wave.gif" width="30px">
 
-- 🔭 I’m currently working in Product Engineering, AI Innovation @ AI Singapore
+- 🔭 I’m the Founder of AIdeaBuddy, developing applications to help navigate life needs in a more productive manner, starting for my own use, my children and others who share the same needs.
+- Previously working in Product Engineering, AI Innovation @ AI Singapore
 - 💬 I was an experienced package development engineer in the past ( hardware development on Integrated Circuit assembled package ). I'm using the transferable skillsets and engineering concepts to transform myself into another package development engineer, this time on software. I'm the Python package core developer for [Rarity](https://pypi.org/project/rarity/), a diagnostic library for tabular data with minimal setup to enable details analysis on datasets, helping users to identify features data that could have potentially influenced the model prediction performance
 - :office: I also built a portal for the current organization to collate industrial machine learning projects for better collaboration and knowledge-sharing among engineers.
 - Most of my code check-ins and activities are done in GitLab Enterprise which can’t be accessed publicly. Nevertheless, I use most of the common tools and libraries to support machine learning and deep learning tasks :dart:
